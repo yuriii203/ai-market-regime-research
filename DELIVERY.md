@@ -5,13 +5,13 @@
 | 交付项 | 状态 | 说明 |
 | --- | --- | --- |
 | 可运行Web产品 | 已完成 | 本地入口 `http://127.0.0.1:8501/` |
-| 公开Web URL | 待部署 | 代码上传GitHub后部署Streamlit Community Cloud |
+| 公开Web URL | 已完成 | [Streamlit公网产品](https://ai-market-regime-research-nvkfld3duaaurie7zwo5qu.streamlit.app/) |
 | 源代码 | 已完成 | 主程序、客户端、分析、研究与测试均在当前目录 |
-| GitHub仓库 | 待创建 | 当前目录尚未初始化Git仓库 |
+| GitHub仓库 | 已完成 | [yuriii203/ai-market-regime-research](https://github.com/yuriii203/ai-market-regime-research) |
 | README | 已完成 | 用户、设计、AI角色、数据、边界与启动说明 |
 | AI使用与验证记录 | 已完成 | 见 `AI_VALIDATION.md` |
 | 测试说明 | 已完成 | 见 `TESTING.md`，当前88项通过 |
-| 演示视频 | 可选、未制作 | 建议录制60–180秒真实产品操作 |
+| 演示视频 | 已完成 | `股票市场大势研判Agent演示视频.mp4` |
 
 ## 功能验收
 
@@ -33,11 +33,11 @@
 3. 确认扶摇及iFinD账号许可允许目标范围的数据展示。
 4. 在部署平台设置Python版本与Secrets。
 5. 部署后执行 `TESTING.md` 中的生产冒烟清单。
-6. 将公开URL和GitHub URL补入本文件。
+6. 已核对公开URL、GitHub URL与演示视频文件。 
 
-## 待填写链接
+## 交付链接
 
-- Web产品URL：`待部署`
-- GitHub仓库：`待创建`
-- 演示视频：`可选`
+- Web产品URL：https://ai-market-regime-research-nvkfld3duaaurie7zwo5qu.streamlit.app/
+- GitHub仓库：https://github.com/yuriii203/ai-market-regime-research
+- 演示视频：`股票市场大势研判Agent演示视频.mp4`
 
