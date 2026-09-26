@@ -1,5 +1,10 @@
 # AI 驱动的股票市场大势研判
 
+> [!IMPORTANT]
+> **公网演示网站：** [立即打开 AI 股票市场大势研判](https://ai-market-regime-research-nvkfld3duaaurie7zwo5qu.streamlit.app/)
+>
+> 如果网站打开后没有成功显示，通常是 Streamlit 免费实例进入了休眠。请在页面中点击 **“Yes, get this app back up!”（重新激活/重新部署）** 按钮，然后等待约 **15 秒** 再查看，无需重新上传代码或配置密钥。
+
 面向 A 股研究场景的 Streamlit Web 产品。系统使用扶摇金融数据构建确定性市场状态，再通过 iFinD MCP 对风格、行业、宏观风险、重要事件和历史相似阶段进行继续研究；DeepSeek 只解释已经计算并完成证据校验的结果。
 
 > 本产品描述历史与当前数据，不预测确定性涨跌，不提供收益承诺、买卖建议或仓位建议。
